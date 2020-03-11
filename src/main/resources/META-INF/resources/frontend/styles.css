@@ -1,0 +1,109 @@
+/*MainView*/
+
+.grid-style{
+    font-size: medium;
+}
+.menuLabel-style{
+    color: orangered;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.showBtn-style{
+    background-color: yellow;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+/*MainView*/
+/*DeleteRiskView*/
+.label-style{
+
+    white-space: normal;
+}
+
+
+/*AdminView*/
+.menu-style{
+    color: slategrey;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.logoutBtn-style{
+    background-color: lightgoldenrodyellow;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.addButton-style{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.updateButton-style{
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+.deleteButton-style{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+}
+
+/*AddRiskView*/
+
+.labelText-style{
+    color: forestgreen;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.save-button{
+    background-color: forestgreen;
+    color: black;
+}
+
+.cancel-button{
+    background-color: yellow;
+    color: black;
+}
+
+/*UpdateRiskView*/
+.saveBtn-style{
+    background-color: green;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+
+.cancelBtn-style{
+    background-color: yellow;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+/*ReturnButtonRiskView*/
+.returnButton-style{
+    background-color: darkgrey;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+/*DeleteRiskView*/
+.deleteBtn-style{
+    background-color: red;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
