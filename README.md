@@ -46,7 +46,7 @@ This app allows:
 ## Installation
 This app is a Spring Boot application built using Maven. You can build a jar file and run it from the command line:
 
-git clone https://github.com/martad1388/Search-for-travelers
+git clone https://github.com/martadrabik-dabrowska/Search-for-travelers
 ```sh
 cd Search-for-travelers
 ./mvnw package
