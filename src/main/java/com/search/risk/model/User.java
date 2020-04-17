@@ -1,6 +1,5 @@
 package com.search.risk.model;
 
-
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 
@@ -21,7 +20,6 @@ public class User {
     @NotNull
     private String password;
 
-
     @OneToOne
     @JoinColumn(name = "role_id")
     @NotNull
@@ -30,7 +28,6 @@ public class User {
     public int getId() {
         return id;
     }
-
 
     public String getEmail() {
         return email;
